@@ -1,0 +1,10 @@
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\bin\Debug\PGPEncryptionAndDecryption.exe.config
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\bin\Debug\PGPEncryptionAndDecryption.exe
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\bin\Debug\PGPEncryptionAndDecryption.pdb
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\obj\Debug\PGPEncryptionAndDecryption.csproj.AssemblyReference.cache
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\obj\Debug\PGPEncryptionAndDecryption.csproj.CoreCompileInputs.cache
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\obj\Debug\PGPEncryptionAndDecryption.csproj.CopyComplete
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\obj\Debug\PGPEncryptionAndDecryption.exe
+C:\Users\sallal\source\repos\PGPEncryptionAndDecryption\PGPEncryptionAndDecryption\obj\Debug\PGPEncryptionAndDecryption.pdb
